@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello Sergei");
         System.out.println("Testing merge");
         System.out.println("Hello Sergei, testing! Test");
+        System.out.println("branch");
 
     }
 }
